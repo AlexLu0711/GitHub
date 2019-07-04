@@ -33,11 +33,11 @@
     - python manage.py startapp teacher
     
 - 路由
-    - 按照具体的请求url，导入到相应的业务处理模块的一个功能
+    - 按照具体的请求url，导入到相应的业务处理模块的一个功能模块
     - Django的信息控制中枢
     - 本质上是接受的URL和相应的处理模块的一个映射
     - 在接受URL请求的匹配上使用了RE
-    - URL的具体格式如urls.py
+    - URL的具体格式如urls.py中所示
     
 
 
